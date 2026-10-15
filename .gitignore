@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+.venv/
+checkpoints/
+*.ckpt.json
+*.hash.json
+wordlists/
+*.txt
+!requirements.txt
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
