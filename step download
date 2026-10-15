@@ -1,0 +1,7 @@
+sudo apt update
+sudo apt install -y git python3 gcc python3-pip
+pip3 install --user pyzipper
+git clone https://github.com/DR-ananymous03/zipcracker.git
+cd zipcracker
+python3 zipcracker.py
+cd ~/zipcracker && python3 zipcracker.py
